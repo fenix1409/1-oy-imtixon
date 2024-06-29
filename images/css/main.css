@@ -1,0 +1,49 @@
+
+.bill{
+    background-color: red;
+    width: 263px;
+    height: 370px;
+    margin-left: 30px;
+    border-radius: 30px;
+    color: white;
+    display: inline-block;
+}
+.has{
+    list-style: none;
+}
+.list-item{
+    color: white;
+    text-align: center;
+}
+.jay{
+    background-color: rgb(38, 45, 51);
+    color: white;
+    width: 263px;
+    height: 370px;
+    border-radius: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+.arthur{
+    background-color: rgb(61, 196, 126);
+    width: 263px;
+    height: 370px;
+    border-radius: 30px;
+    display: inline-block;
+}
+.list-arthur{
+    color: white;
+}
+.list-style{
+    display: inline-block;
+    border-radius: 30px;
+    text-align: center;
+}
+.remove-margin{
+    margin-left: 0;
+}
+.strong{
+    text-align: center;
+    margin-bottom: 10px;
+}
